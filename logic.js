@@ -23,6 +23,8 @@ function startGame(){
 	lettersInword = selectedWord.split("");
 	numBlanks = lettersInword.length;
 
+	
+
 	//Reset//
 	guesssesLeft = 9;
 	WrongLetters = [];
@@ -110,6 +112,8 @@ function checkletters (letter) {
 
  		startGame();
  	}
+
+
  
 }
  	
