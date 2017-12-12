@@ -9,3 +9,9 @@ div.container {
 font-family: 'Bangers', cursive;
 
  }
+
+ 
+ div.card {
+ 	width: 657px;
+ 	margin: auto;
+ }
